@@ -51,7 +51,7 @@ for sentence in sentences:
 # 0.20 River and Bus are pretty dissimilar which means the model probably recognises that a bus has close to no relation to the river.
 # 0.37 Boat and Road has just below average similarities as it can be assumed the boat can be travelled on the road if it has wheels.
 # 0.56 River and Road has a pretty high similarity rating as it can be assumed they are are different ways that can be travelled.
-# 0.50 Bus and Road has a decent similarity rating which can only be assumed that the model reocngises that the bus rides along the roads.
+# 0.50 Bus and Road has a decent similarity rating which can only be assumed that the model recongises that the bus rides on the roads.
 #******************************************************************************************************************************************
 
 
